@@ -1,4 +1,4 @@
-# The Sparse and Low Rank Interpretation of SVD bases Signal denoising
+# The Sparse and Low Rank Interpretation of SVD based Signal denoising
 By
 
 Arepalle Charan Kumar Reddy
